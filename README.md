@@ -13,6 +13,7 @@ Google Colab — bez instalacji, bez GPU (chyba ze zaznaczono inaczej).
 | `ex3_motion_tracking.ipynb` | M3 | Pozy → trajektoria → eksport trajectory.json do symulatora kursu |
 | `ex5_apriltag.ipynb` | M5 | Detekcja AprilTag + pozycja 6DOF |
 | `ex5_yolo_detect.ipynb` | M5 | YOLO11: detekcja obiektow + deprojekcja do 3D |
+| `ex7_lerobot_explore.ipynb` | M7 | Eksploracja prawdziwego datasetu LeRobot z HF: struktura, trajektorie, ocena jakosci |
 | `ex8_gemini_scene.ipynb` | M8 | Gemini Robotics-ER jako planer scen (darmowy klucz AI Studio) |
 | `ex8_unifolm_eval.ipynb` | M8 | Porownanie architektur VLA, metadane modeli z HF |
 
